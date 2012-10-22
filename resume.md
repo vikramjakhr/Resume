@@ -1,67 +1,79 @@
-# Nathaniel Welch
+# John V. Shahid
 
- * <nat@natwelch.com>
- * <http://natwelch.com>
- * 707-799-8675
+ * Email: <jvshahid@gmail.com>
+ * Github: <http://github.com/jvshahid>
+ * Tweeter handler: @jvshahid
+ * Phone number: 718-730-0780
+ * Online version of this resume: <http://jvshahid.github.com/Resume>
 
-## Background
+![My image](http://www.gravatar.com/avatar/2736d9750eb13425e9bf70f112753c49)
 
-I am a software developer with an interest in communication and design. I enjoy experimenting with new things to expand my knowledge and I believe that creating ways for people to share knowledge is one of the greatest goals for mankind. 
+## Objectives (What am I looking for ?)
 
-I strive to be a quick learner and both a competent leader and capable worker. I am an Eagle Scout and was an active officer of the Cal Poly Linux Users Group for three years. I was awarded Cal Poly's Residence Hall Council member of the year for both 2006 and 2007. In my free time I enjoy contributing to open source projects, hiking, reading and listening to music.
+Seeking a rewarding, challenging position with growth potential in a dynamic company that will
+enhance both my programming, leadership and business skills.
 
 ## Education
 
-Computer Science, B.S.  
-Fall 2006 - Spring 2011  
-California Polytechnic State University, San Luis Obispo  
+Polytechnic University, Brooklyn, NY
+Department of Electrical and Computer Engineering
+B.S. Degree in Computer Engineering
+Fall 2006 - Fall 2009
 
-## Proficiency
+Higher Technological Institute, Egypt
+Department of Electrical Engineering
+Enrolled in B.S. Degree in Electrical Engineering
+Fall 2002 - Spring 2005
 
-I have been writing code, running servers and experimenting with new software since 2002. Most recently the majority of code I have written has been in Java, Ruby, Javascript and Bash, but I have experience in C, Python, SML/NJ, C++, SQL and F#.
+## Skills (What do I know ?)
 
-## Experience
+I have been programming professionally since 2010, mainly using
+ the following technologies:
 
-### Google.com, San Francisco, CA
+- Ruby
+- Scala
+- Java
+- C
+- NoSql (Redis and Cassandra)
+- Bash Scripting
 
-#### Site Reliability Engineer - April 2012 to Present
+I also like exploring new technologies. Although I'm not competent
+in those technologies, I spent a fair amount of time using them:
 
-I work as an SRE for Google Compute Engine and Google Cloud Storage.
+- Clojure
+- Groovy
+- Rails
+- F#
+- Javascript
 
-#### Software Engineer - August 2011 to Present 
+## Experience (What have I done ?)
 
-I continue to maintain Punchd, post-acquisition.
+### Benchmark Solutions INC.
 
-### Punchd, Mountain View, CA
+#### Software Engineer - February 2010 to Present
 
-#### Software Developer - May 2011 to July 2012
+I develop and maintain all the infrastructure services which integrates
+the client facing application with the engine generated time series data.
 
-I was [Punchd](http://getpunchd.com)'s backend and operations engineer until we were acquired by Google in July 2011. Once at Google I continued to maintain Punchd's servers, backend API and web frontend. I also helped implement a version of Punchd built on Google's infrastructure, but it was never released.
+During my time at Benchmark Solutions, I worked on the following projects:
 
-### iFixit.com, San Luis Obispo CA
+- Implemented and currently maintain a home brewed solution to store our
+  generated time series database server built on top of Cassandra.
+- Implemented and currently maintain our messaging bus, which integrates
+  with our time series db, with bindings for Ruby, C and Java.
+- Implemented and currently maintain the web service that exposed the generated
+  time series data in JSON to our client facing web app and a .Net app
 
-#### Software Developer - April 2009 to April 2011
+## Open source contributions
 
-I wore a variety of hats including -- but not limited to -- writing code to promote high quality content and a stable community, helping keep servers afloat, and working with users to develop content. I wrote code mainly in PHP and Bash, and helped maintain our fleet of servers on Amazon's EC2 Service. 
+Contributing back to the open source community is an important activity
+in my daily life because I believe in the OSS mission and to show gratitude
+to my fellow developers.
 
- * Helped create a site-wide reputation community, which began with [iFixit.com/Answers](http://ifixit.com/Answers)
- * Helped maintain various servers, located on Amazon EC2, and local development machines
- * Developed the first JavaScript widget for iFixit's API.
- * Redefined iFixit's developer work flow
+- Ruby
 
-### Adobe Systems Incorporated, San Francisco CA
+- JRuby
 
-#### Dreamweaver Quality Engineering Intern - Summer 2007 and 2008
+- Nokogiri
 
- * Tested both daily builds and released versions of Dreamweaver against various operating systems -- including Mac OSX 10.4, Mac OSX 10.5, Windows Vista, and Windows XP.
- * Helped maintain the Server Matrix, Bug-base, and test a new test case application
- * Helped develop and test the Web Widgets Feature for Dreamweaver CS4, which won the "Dreamweaver Community Feature of the Year" award in 2008.
-
-### BSA Camp Oljato, Lakeshore CA
-
-#### Nature Director - Summer 2006
-#### Camp Counselor - Summer 2002, 2003 and 2004
-
- * In charge of four staff members and responsible for planning the activities behind and maintaining the entire Nature area at camp, with an average of about 200 kids every week for seven weeks per summer.
- * Taught merit badge classes such as wilderness survival, camping, hiking, and others to children ages ten to eighteen.
-
+I'm the maintainers of Nokogiri (the Java implementation).
