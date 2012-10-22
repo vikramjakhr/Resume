@@ -1,3 +1,4 @@
+# -*- ruby -*-
 # The Rakefile does all of the real work.
 
 task :default => [:github, :heroku]
