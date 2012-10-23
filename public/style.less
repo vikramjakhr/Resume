@@ -10,6 +10,12 @@
 @link:   #4183C4;
 @border: #E0E0E0;
 
+.noprint {
+  @media print {
+    display: none;
+  }
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -36,6 +42,7 @@ body {
 }
 
 .download {
+  .noprint;
   margin-top: 100px;
   display: block;
   text-align: right;
@@ -114,9 +121,7 @@ body {
   }
 
   img {
-    @media print {
-      display: none;
-    }
+    .noprint;
     max-width: 100%;
     position: absolute;
     right: 10px;
