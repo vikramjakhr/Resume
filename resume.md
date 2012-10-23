@@ -9,7 +9,7 @@
  * Phone number: 718-730-0780
  * Online resume: <http://jvshahid.github.com/Resume>
 
-![My image](http://www.gravatar.com/avatar/2736d9750eb13425e9bf70f112753c49)
+![My image](http://www.gravatar.com/avatar/2736d9750eb13425e9bf70f112753c49?s=150)
 
 ## Objectives (What am I looking for ?)
 
