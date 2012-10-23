@@ -44,16 +44,10 @@ the following technologies:
   with threading issues.
 - **NoSql**. I have recently used Redis for caching time series data that is frequently requested by client applications.
   I also setup and maintained Cassandra as a time series db.
-
-I also like exploring new technologies. Although I'm not competent
-in those technologies, I spent a fair amount of time using them:
-
-- **Clojure**
-- **Groovy**
-- **Rails**
-- **F#**
-- **Javascript**
-- **SQL**
+- **Linux Administration**. I don't call myself a sysadmin, but since I use Linux personally as well as develop services
+  that runs on Linux, I became familiar with modifying kernel parameters such as choosing different I/O schedulers
+  as well as tools to debug and understand performance issues (e.g. iotop, dstat, etc.).
+- **Other languages**. I've previously used Clojure, Groovy, Rails, F#, Javascript and SQL for small projects and for fun.
 
 ## Experience (What have I done ?)
 
@@ -64,7 +58,7 @@ in those technologies, I spent a fair amount of time using them:
 AGENDA is a software testing research project that focused on testing and verifying
 database applications and their interactions with the database.
 
-- **Reimplemented AGENDA**. Reimplemented AGENDA as a SWING application as opposed
+- **SWING implementation**. Reimplemented AGENDA as a SWING application as opposed
   to a web app to provide a better user experience while reusing most of the components
   used by the previous implementation.
 - **Input data generation**. Improved the implementation of the fake data generation phase.
@@ -94,7 +88,7 @@ Contributing back to the open source community is an important activity
 in my daily life because I believe in the OSS mission and to show gratitude
 to my fellow developers.
 
-- **[Nokogiri](https://github.com/sparklemotion/nokogiri)**. I'm currently one of the the maintainers of Nokogiri (the Java implementation).
+- **[Nokogiri](https://github.com/sparklemotion/nokogiri)**. Core maintainer of Nokogiri.
 - **[JRuby](https://github.com/jruby/jruby)**. Found and fixed a bug related to String encoding in JRuby 1.7 when running in 1.9 mode.
 - **[Ruby](https://github.com/ruby/ruby)**. Submitted a new test to enhance coverage of String encoding as a result of a bug found in JRuby.
 - **[Minix](http://www.minix3.org/)**. While in college I finished porting the Linux O(1) scheduler which was designed and implemented
