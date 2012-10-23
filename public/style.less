@@ -112,7 +112,12 @@ body {
   }
 
   a, a:visited {
-    color: @link;
+    @media screen {
+      color: @link;
+    }
+    @media print {
+      color: @fg;
+    }
     text-decoration: none;
   }
 
@@ -143,5 +148,11 @@ body {
   dd {
     margin-left: 2em;
     margin-bottom: 1em;
+  }
+
+  strong {
+    @media screen {
+      color: @link;
+    }
   }
 }

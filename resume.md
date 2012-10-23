@@ -44,7 +44,7 @@ the following technologies:
   with threading issues.
 - **NoSql**. I have recently used Redis for caching time series data that is frequently requested by client applications.
   I also setup and maintained Cassandra as a time series db.
-- **Linux Administration**. I don't call myself a sysadmin, but since I use Linux personally as well as develop services
+- **Linux Administration**. I don't call myself a sysadmin, but since I use Linux personally and develop services
   that runs on Linux, I became familiar with modifying kernel parameters such as choosing different I/O schedulers
   as well as tools to debug and understand performance issues (e.g. iotop, dstat, etc.).
 - **Other languages**. I've previously used Clojure, Groovy, Rails, F#, Javascript and SQL for small projects and for fun.
