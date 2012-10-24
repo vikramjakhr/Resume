@@ -68,7 +68,8 @@ source software.
 Working at Benchmark gave me the chance to get exposed to the Fixed
 Income market and to build a complicated system by breaking it down
 into smaller services/modules that are easy to build and
-maintain. Below is an overview of the projects I worked on:
+maintain. Below is an overview of the projects I worked on and
+experiences i gained:
 
 - **SINAPS**. Although it started as a web service to serve historical
   prices as well as last value data (most recent price) to our client
