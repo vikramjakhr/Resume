@@ -73,12 +73,12 @@ maintain. Below is an overview of the projects I worked on:
 - **SINAPS**. Although it started as a web service to serve historical
   prices as well as last value data (most recent price) to our client
   applications. It soon became the internal tool to easily inspect
-  data using a browser or programatically using the libraries that
+  data using a browser or pragmatically using the libraries that
   were built for Matlab, C, Java and Ruby. The service grew to
   encapsulate more complicated operations that were commonly used,
   such as filtering, averaging and joining multiple time
-  series. SINAPS was written in scala using Scalatra.
-- **Cassandra/Hadoop**. Being a data company our timeseries db was an
+  series. SINAPS was written in Scala using Scalatra.
+- **Cassandra/Hadoop**. Being a data company our time series db was an
   important piece of the architecture. We started with a proprietary
   solution and later moved to a Cassandra/Hadoop solution. I was responsible
   for architecting the schema, as well as building libraries for C/C++ (using
