@@ -62,8 +62,8 @@ the following technologies:
 
 As an early employee at Benchmark Solutions I was responsible for
 architecting, developing and maintaining a wide range of services and
-processes that integrated our infrastructure mostly built using open
-source software.
+processes that consitutes our realtime market data infrastructure
+mostly built using open source software.
 
 Working at Benchmark gave me the chance to get exposed to the Fixed
 Income market and to build a complicated system by breaking it down
