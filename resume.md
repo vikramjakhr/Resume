@@ -5,7 +5,7 @@
 
  * Email/GTalk: <jvshahid@gmail.com>
  * Github: <http://github.com/jvshahid>
- * Tweeter handler: [@jvshahid](http://twitter.com/jvshahid)
+ * Twitter handle: [@jvshahid](http://twitter.com/jvshahid)
  * Phone number: 718-730-0780
  * Online resume: <http://jvshahid.github.com/Resume>
 
