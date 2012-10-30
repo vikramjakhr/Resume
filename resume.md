@@ -16,7 +16,9 @@
 I love working on cool stuff with a bunch of smart people.  Most of
 what you'll see in this resume was self taught, it started as a hobby
 in high school and later became my career. So learning new things is an
-important objective in my life as well.
+important objective in my life as well. As I mentioned before, I am a
+team player; an energetic and smart team that I like to work with and
+learn from is also an important objective.
 
 ## Education
 
