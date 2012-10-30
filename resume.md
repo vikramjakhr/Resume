@@ -13,9 +13,9 @@
 
 ## Objectives (What am I looking for ?)
 
-I love working on cool shit with a bunch of smart people.  Most of
+I love working on cool stuff with a bunch of smart people.  Most of
 what you'll see in this resume was self taught, it started as a hobby
-in high school and later became my career. So learning new shit is an
+in high school and later became my career. So learning new things is an
 important objective in my life as well.
 
 ## Education
@@ -56,7 +56,7 @@ the following technologies:
 
 ### Professional experience
 
-#### Benchmark Solutions INC.
+#### Benchmark Solutions.
 
 ##### Software Engineer - February 2010 to Present
 
