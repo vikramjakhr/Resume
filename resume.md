@@ -111,7 +111,7 @@ on a daily basis.
   JRuby.
 - **[Minix](http://www.minix3.org/)**. While in college I ported the
   Linux O(1) scheduler which was designed and implemented by Ingo
-  Malner to the Minix Operating System, though this work wasn't
+  Molnár to the Minix Operating System, though this work wasn't
   published or contributed back to the Minix code base.
 
 ### Undergraduate experience
