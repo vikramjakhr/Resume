@@ -3,7 +3,7 @@
 
 # John V. Shahid
 
- * Email/GTalk: <jvshahid@gmail.com>
+ * Email/GTalk: jvshahid at gmail dot com
  * Github: <http://github.com/jvshahid>
  * Twitter handle: [@jvshahid](http://twitter.com/jvshahid)
  * Phone number: 718-730-0780
