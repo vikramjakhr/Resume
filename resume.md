@@ -11,7 +11,7 @@
 
 ![My image](http://www.gravatar.com/avatar/2736d9750eb13425e9bf70f112753c49?s=150)
 
-## Objectives (What am I looking for ?)
+## Objectives
 
 I love working on cool stuff with a bunch of smart people.  Most of
 what you'll see in this resume was self taught, it started as a hobby
@@ -32,7 +32,7 @@ Department of Electrical Engineering
 Enrolled in B.S. Degree in Electrical Engineering  
 Fall 2002 - Spring 2005
 
-## Skills (What do I know ?)
+## Skills
 
 I have been programming professionally since 2010, mainly using
 the following technologies:
@@ -55,7 +55,7 @@ the following technologies:
 - **SQL** (moderate). I know just enough SQL to get my job done and look up the documentation when it gets complicated.
 - **Other languages**. I've previously used Clojure, Groovy/Grails, Rails, F#, Javascript, Haskell for small projects and for fun.
 
-## Experience (What have I done ?)
+## Experience
 
 ### Professional experience
 
