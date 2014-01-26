@@ -66,7 +66,8 @@ the following technologies:
 Errplane is a cloud-based platform for monitoring application
 performance, exceptions, uptime, and custom metrics in
 real-time. Errplane open-sourced the core data store, InfluxDB, a
-lightweight distributed time series, events, and metrics database.
+lightweight distributed time series, events, and metrics
+database.
 
 As part of being at Errplane, I worked on the following projects:
 
@@ -78,6 +79,11 @@ As part of being at Errplane, I worked on the following projects:
   [Influxdb](https://github.com/influxdb/influxdb?source=c) the open
   source time series database that used to store all metric data for
   Errplane.
+- Coordinate the open source community that were built around
+  Influxdb. Influxdb has gained the interest of the open source
+  community and new tools and libraries are constantly built by the
+  community. The tools range from command line interfaces to plugins
+  for metric collection and visualization tools.
 
 #### Thomson Reuters
 
@@ -148,6 +154,8 @@ on a daily basis.
 - **[Golang](https://codereview.appspot.com/9795043)**. Fixed a bug in
   the tls certificate checking code that prevented certificates with
   long chains to be used in golang.
+- **[Influxdb](https://github.com/influxdb/influxdb?source=c)**. A
+    lightweight distributed time series, events, and metrics database.
 - **[Nokogiri](https://github.com/sparklemotion/nokogiri)**. Core
   maintainer of Nokogiri.
 - **[JRuby](https://github.com/jruby/jruby)**. Found and fixed
