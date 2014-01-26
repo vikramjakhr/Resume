@@ -37,11 +37,12 @@ Fall 2002 - Spring 2005
 I have been programming professionally since 2010, mainly using
 the following technologies:
 
-- **Ruby** (moderate). I'm not not really a Rubyist but I use Ruby for most of my scripting needs and love it as a language.
-- **Scala** (moderate). I've been using Scala for quite sometime now, mainly to build web services using **Scalatra**.
+- **Go** (professional). I've been using Go for over a year and have submitted bug fixes to the repo previously (see below).
 - **Java** (professional). I've been using Java for more than 5 years, although I prefer not to use it anymore for many reasons.
 - **C/C++** (professional). I've been using C/C++ for the past 2 years, mainly to write services and libraries that will run
   under Linux.
+- **Ruby** (moderate). I'm not not really a Rubyist but I use Ruby for most of my scripting needs and love it as a language.
+- **Scala** (moderate). I've been using Scala for quite sometime now, mainly to build web services using **Scalatra**.
 - **Bash** (moderate). I'm by no means a good bash scripter but since the shell is the heart of all Unix systems,
   I'm forced to use it on a daily basis and get better at it everyday.
 - **Java Threads/PThreads** (moderate). Aware of the common pitfalls associated with using threads and have good debugging skills
@@ -60,7 +61,7 @@ the following technologies:
 
 #### Benchmark Solutions.
 
-##### Software Engineer - February 2010 to Present
+##### Software Engineer - February 2010 to December 2013
 
 As an early employee at Benchmark Solutions I was responsible for
 architecting, developing and maintaining a wide range of services and
@@ -102,10 +103,14 @@ in my daily life because I believe in the OSS mission and to show gratitude
 to my fellow developers who continuously build awesome software that I use
 on a daily basis.
 
+- **[Golang](https://codereview.appspot.com/9795043)**. Fixed a bug in
+  the tls certificate checking code that prevented certificates with
+  long chains to be used in golang.
 - **[Nokogiri](https://github.com/sparklemotion/nokogiri)**. Core
   maintainer of Nokogiri.
-- **[JRuby](https://github.com/jruby/jruby)**. Found and fixed a bug
-  related to String encoding in JRuby 1.7 when running in 1.9 mode.
+- **[JRuby](https://github.com/jruby/jruby)**. Found and fixed
+  multiple bugs related to String encoding in JRuby 1.7 when running
+  in 1.9 mode and timezone handling.
 - **[Ruby](https://github.com/ruby/ruby)**. Submitted a new test to
   enhance coverage of String encoding as a result of a bug found in
   JRuby.
