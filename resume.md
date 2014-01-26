@@ -59,6 +59,48 @@ the following technologies:
 
 ### Professional experience
 
+#### Errplane/Influxdb
+
+##### Software Engineer - July 2013 to Present
+
+Errplane is a cloud-based platform for monitoring application
+performance, exceptions, uptime, and custom metrics in
+real-time. Errplane open-sourced the core data store, InfluxDB, a
+lightweight distributed time series, events, and metrics database.
+
+As part of being at Errplane, I worked on the following projects:
+
+- Write and maintain a local metric collection agent, that can monitor
+  cpu, memory, load and processes possibly restarting them when a
+  problem is detected.
+- Build a query parser in yacc and lex for influxdb
+- Build and maintain
+  [Influxdb](https://github.com/influxdb/influxdb?source=c) the open
+  source time series database that used to store all metric data for
+  Errplane.
+
+#### Thomson Reuters
+
+##### Software Engineer Contractor - December 2013 to July 2013
+
+As part of a team of two contractors we were tasked with building a
+drop-in replacement for
+[Microsoft LCS](http://msdn.microsoft.com/en-us/library/aa167872%28v=office.11%29.aspx). The
+responsibilities included the following:
+
+- Implement a [SIP](http://www.ietf.org/rfc/rfc3261.txt) chat server
+  that is backward compatible with LCS and supports all of
+  [Microsoft's extensions](http://msdn.microsoft.com/en-us/library/cc246115.aspx)
+  to SIP.
+- Integrate with other Thomson Reuters services and infrastructure.
+- Federate with other networks, e.g. Yahoo! and MSN which used a
+  slight variation of SIP.
+- Communicate with a large team of developers, operations and QA teams
+  located across the globe including Bangkok, London and New York
+  City.
+- Support hundreds of thousands of users logged in simultaneously to
+  the system and scale horizontally.
+
 #### Benchmark Solutions.
 
 ##### Software Engineer - February 2010 to December 2013
