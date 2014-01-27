@@ -109,7 +109,7 @@ responsibilities included the following:
 
 #### Benchmark Solutions.
 
-##### Software Engineer - February 2010 to December 2013
+##### Software Engineer - February 2010 to December 2012
 
 As an early employee at Benchmark Solutions I was responsible for
 architecting, developing and maintaining a wide range of services and
