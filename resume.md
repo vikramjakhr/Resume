@@ -87,7 +87,7 @@ As part of being at Errplane, I worked on the following projects:
 
 #### Thomson Reuters
 
-##### Software Engineer Contractor - December 2013 to July 2013
+##### Software Engineer Contractor - December 2012 to July 2013
 
 As part of a team of two contractors we were tasked with building a
 drop-in replacement for
