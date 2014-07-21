@@ -59,7 +59,7 @@ the following technologies:
 
 ### Professional experience
 
-#### Errplane/Influxdb
+#### Errplane/InfluxDB
 
 ##### Software Engineer - July 2013 to Present
 
@@ -74,13 +74,13 @@ As part of being at Errplane, I worked on the following projects:
 - Write and maintain a local metric collection agent, that can monitor
   cpu, memory, load and processes possibly restarting them when a
   problem is detected.
-- Build a query parser in yacc and lex for influxdb
-- Build and maintain
-  [Influxdb](https://github.com/influxdb/influxdb?source=c) the open
+- Build a query parser in yacc and lex for InfluxDB
+- Build, maintain and improve
+  [InfluxDB](https://github.com/influxdb/influxdb) the open
   source time series database that used to store all metric data for
   Errplane.
 - Coordinate the open source community that were built around
-  Influxdb. Influxdb has gained the interest of the open source
+  InfluxDB. InfluxDB has gained the interest of the open source
   community and new tools and libraries are constantly built by the
   community. The tools range from command line interfaces to plugins
   for metric collection and visualization tools.
@@ -154,7 +154,7 @@ on a daily basis.
 - **[Golang](https://codereview.appspot.com/9795043)**. Fixed a bug in
   the tls certificate checking code that prevented certificates with
   long chains to be used in golang.
-- **[Influxdb](https://github.com/influxdb/influxdb?source=c)**. A
+- **[InfluxDB](https://github.com/influxdb/influxdb)**. A
     lightweight distributed time series, events, and metrics database.
 - **[Nokogiri](https://github.com/sparklemotion/nokogiri)**. Core
   maintainer of Nokogiri.
