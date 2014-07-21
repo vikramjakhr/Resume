@@ -22,14 +22,14 @@ learn from is also an important objective.
 
 ## Education
 
-### Polytechnic University, Brooklyn, NY  
-Department of Electrical and Computer Engineering  
-B.S. Degree in Computer Engineering  
+### Polytechnic University, Brooklyn, NY
+Department of Electrical and Computer Engineering
+B.S. Degree in Computer Engineering
 Fall 2006 - Fall 2009
 
-### Higher Technological Institute, Egypt  
-Department of Electrical Engineering  
-Enrolled in B.S. Degree in Electrical Engineering  
+### Higher Technological Institute, Egypt
+Department of Electrical Engineering
+Enrolled in B.S. Degree in Electrical Engineering
 Fall 2002 - Spring 2005
 
 ## Skills
