@@ -37,23 +37,39 @@ Fall 2002 - Spring 2005
 I have been programming professionally since 2010, mainly using
 the following technologies:
 
-- **Go** (professional). I've been using Go for over a year and have submitted bug fixes to the repo previously (see below).
-- **Java** (professional). I've been using Java for more than 5 years, although I prefer not to use it anymore for many reasons.
-- **C/C++** (professional). I've been using C/C++ for the past 2 years, mainly to write services and libraries that will run
-  under Linux.
-- **Ruby** (moderate). I'm not not really a Rubyist but I use Ruby for most of my scripting needs and love it as a language.
-- **Scala** (moderate). I've been using Scala for quite sometime now, mainly to build web services using **Scalatra**.
-- **Bash** (moderate). I'm by no means a good bash scripter but since the shell is the heart of all Unix systems,
-  I'm forced to use it on a daily basis and get better at it everyday.
-- **Java Threads/PThreads** (moderate). Aware of the common pitfalls associated with using threads and have good debugging skills
-  with threading issues.
-- **NoSql**. I have recently used Redis for caching time series data that is frequently requested by client applications.
-  I also setup and maintained Cassandra as a time series db.
-- **Linux Administration**. I don't call myself a sysadmin, but since I use Linux personally and develop services
-  that runs on Linux, I became familiar with modifying kernel parameters such as choosing different I/O schedulers
-  as well as tools to debug and understand performance issues (e.g. iotop, dstat, etc.).
-- **SQL** (moderate). I know just enough SQL to get my job done and look up the documentation when it gets complicated.
-- **Other languages**. I've previously used Clojure, Groovy/Grails, Rails, F#, Javascript, Haskell for small projects and for fun.
+- **Go** (professional). I've been using Go for over a year and have
+    submitted bug fixes to the repo previously (see below).
+- **Java** (professional). I've been using Java for more than 5 years,
+    although I prefer not to use it anymore for many reasons.
+- **C/C++** (professional). I've been using C/C++ for the past 2
+  years, mainly to write services and libraries that will run under
+  Linux.
+- **Ruby** (moderate). I'm not not really a Rubyist but I use Ruby for
+    most of my scripting needs and love it as a language.
+- **Scala** (moderate). I used Scala for quite sometime, mainly to
+    build web services using **Scalatra**.
+- **Bash** (moderate). I'm by no means a good bash scripter but since
+  the shell is the heart of all Unix systems, I'm forced to use it on
+  a daily basis and get better at it everyday.
+- **Java Threads/PThreads** (moderate). Aware of the common pitfalls
+  associated with using threads and have good debugging skills with
+  threading issues.
+- **NoSQL**. I have recently used Redis for caching time series data
+  that is frequently requested by client applications.  I also setup
+  and maintained Cassandra as a time series db. I'm also the coauthor
+  and maintainer of [InfluxDB](https://github.com/influxdb/influxdb) a
+  timeseries database written entirely in Golang and using many NoSQL
+  design concepts and tradeoff.
+- **Linux Administration**. I don't call myself a sysadmin, but since
+  I use Linux personally and develop services that runs on Linux, I
+  became familiar with modifying kernel parameters such as choosing
+  different I/O schedulers as well as tools to debug and understand
+  performance issues (e.g. iotop, dstat, etc.).
+- **SQL** (moderate). I know just enough SQL to get my job done and
+    look up the documentation when it gets complicated.
+- **Other languages**. I've previously used Clojure, Groovy/Grails,
+    Rails, F#, Javascript, CoffeeScript, Haskell for small projects
+    and for fun.
 
 ## Experience
 
@@ -66,8 +82,8 @@ the following technologies:
 Errplane is a cloud-based platform for monitoring application
 performance, exceptions, uptime, and custom metrics in
 real-time. Errplane open-sourced the core data store, InfluxDB, a
-lightweight distributed time series, events, and metrics
-database.
+lightweight distributed time series, events, and metrics database
+written entirely in Golang.
 
 As part of being at Errplane, I worked on the following projects:
 
@@ -97,7 +113,7 @@ responsibilities included the following:
 - Implement a [SIP](http://www.ietf.org/rfc/rfc3261.txt) chat server
   that is backward compatible with LCS and supports all of
   [Microsoft's extensions](http://msdn.microsoft.com/en-us/library/cc246115.aspx)
-  to SIP.
+  to SIP and written entirely in Golang.
 - Integrate with other Thomson Reuters services and infrastructure.
 - Federate with other networks, e.g. Yahoo! and MSN which used a
   slight variation of SIP.
@@ -146,10 +162,10 @@ experiences I gained:
 
 ### Open source experience
 
-Contributing back to the open source community is an important activity
-in my daily life because I believe in the OSS mission and to show gratitude
-to my fellow developers who continuously build awesome software that I use
-on a daily basis.
+Contributing back to the open source community is an important
+activity in my daily life because I believe in the OSS mission and to
+show gratitude to my fellow developers who continuously build awesome
+software that I use on a daily basis.
 
 - **[Golang](https://codereview.appspot.com/9795043)**. Fixed a bug in
   the tls certificate checking code that prevented certificates with
@@ -164,8 +180,8 @@ on a daily basis.
 - **[Ruby](https://github.com/ruby/ruby)**. Submitted a new test to
   enhance coverage of String encoding as a result of a bug found in
   JRuby.
-- **[Minix](http://www.minix3.org/)**. While in college I ported the
-  Linux O(1) scheduler which was designed and implemented by Ingo
+- **[Minix](http://www.minix3.org/)**. As a college project I ported
+  the Linux O(1) scheduler which was designed and implemented by Ingo
   Molnár to the Minix Operating System, though this work wasn't
   published or contributed back to the Minix code base.
 
