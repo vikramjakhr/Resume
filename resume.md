@@ -13,12 +13,11 @@
 
 ## Objectives
 
-I love working on cool stuff with a bunch of smart people.  Most of
-what you'll see in this resume was self taught, it started as a hobby
-in high school and later became my career. So learning new things is an
-important objective in my life as well. As I mentioned before, I am a
-team player; an energetic and smart team that I like to work with and
-learn from is also an important objective.
+Most of what you'll see in this resume was self taught, it started as
+a hobby in school and later became a career. So learning new things is
+an important objective in my life. I am a team player; an energetic
+and smart team that I like to work with and learn from is also an
+important objective.
 
 ## Education
 
@@ -34,10 +33,9 @@ Fall 2002 - Spring 2005
 
 ## Skills
 
-I have been programming professionally since 2010, mainly using
-the following technologies:
+I have in the past used the following tools and technologies:
 
-- **Go** (professional). I've been using Go for over a year and have
+- **Go** (professional). I've been using Go since early 2013 and have
     submitted bug fixes to the repo previously (see below).
 - **Java** (professional). I've been using Java for more than 5 years,
     although I prefer not to use it anymore for many reasons.
@@ -45,26 +43,28 @@ the following technologies:
   years, mainly to write services and libraries that will run under
   Linux.
 - **Ruby** (moderate). I'm not not really a Rubyist but I use Ruby for
-    most of my scripting needs and love it as a language.
+    most of my scripting needs and love it as a language. I also
+    contributed to a couple of JRuby gems and reported bugs with JRuby
+    and submitted patches to the repo when appropriate.
 - **Scala** (moderate). I used Scala for quite sometime, mainly to
     build web services using **Scalatra**.
-- **Bash** (moderate). I'm by no means a good bash scripter but since
-  the shell is the heart of all Unix systems, I'm forced to use it on
-  a daily basis and get better at it everyday.
 - **Java Threads/PThreads** (moderate). Aware of the common pitfalls
   associated with using threads and have good debugging skills with
   threading issues.
+- **Bash** (moderate). I'm by no means a good bash scripter but since
+  the shell is the heart of all Unix systems, I'm forced to use it on
+  a daily basis and get better at it everyday.
 - **NoSQL**. I have recently used Redis for caching time series data
   that is frequently requested by client applications.  I also setup
   and maintained Cassandra as a time series db. I'm also the coauthor
   and maintainer of [InfluxDB](https://github.com/influxdb/influxdb) a
   timeseries database written entirely in Golang and using many NoSQL
   design concepts and tradeoff.
-- **Linux Administration**. I don't call myself a sysadmin, but since
-  I use Linux personally and develop services that runs on Linux, I
-  became familiar with modifying kernel parameters such as choosing
-  different I/O schedulers as well as tools to debug and understand
-  performance issues (e.g. iotop, dstat, etc.).
+- **Linux Administration**. I'm not a sysadmin, but since I use Linux
+  personally and develop services that runs on Linux, I became
+  familiar with modifying kernel parameters such as choosing different
+  I/O schedulers as well as tools to debug and understand performance
+  issues (e.g. iotop, dstat, etc.).
 - **SQL** (moderate). I know just enough SQL to get my job done and
     look up the documentation when it gets complicated.
 - **Other languages**. I've previously used Clojure, Groovy/Grails,
@@ -77,7 +77,7 @@ the following technologies:
 
 #### Errplane/InfluxDB
 
-##### Software Engineer - July 2013 to Present
+##### Software Engineer - July 2013 to November 2014
 
 Errplane is a cloud-based platform for monitoring application
 performance, exceptions, uptime, and custom metrics in
@@ -87,19 +87,18 @@ written entirely in Golang.
 
 As part of being at Errplane, I worked on the following projects:
 
-- Write and maintain a local metric collection agent, that can monitor
-  cpu, memory, load and processes possibly restarting them when a
-  problem is detected.
-- Build a query parser in yacc and lex for InfluxDB
-- Build, maintain and improve
-  [InfluxDB](https://github.com/influxdb/influxdb) the open
-  source time series database that used to store all metric data for
-  Errplane.
+- Co-author the initial design of InfluxDB.
+- Build InfluxDB's query parser in yacc and lex for InfluxDB
 - Coordinate the open source community that were built around
   InfluxDB. InfluxDB has gained the interest of the open source
   community and new tools and libraries are constantly built by the
   community. The tools range from command line interfaces to plugins
   for metric collection and visualization tools.
+- Review patches and other changes requested by team members and the
+  community.
+- Write and maintain a local metric collection agent, that can monitor
+  cpu, memory, load and processes possibly restarting them when a
+  problem is detected.
 
 #### Thomson Reuters
 
