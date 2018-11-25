@@ -28,7 +28,7 @@ Master of Computer Applications (MCA)
 
 I have in the past used the following tools and technologies:
 
-- **Go** (professional). I've been using Go since early 2015 and have
+- **Go** (professional). I've been using Go since early 2016 and have
     created multiple applications, some of them are available on my github (see below).
 - **Bash** (moderate). I'm by no means a good bash scripter but since
   the shell is the heart of all Unix systems, I'm forced to use it on
@@ -71,37 +71,17 @@ activity in my daily life because I believe in the OSS mission and to
 show gratitude to my fellow developers who continuously build awesome
 software that I use on a daily basis.
 
-- **[Golang](https://codereview.appspot.com/9795043)**. Fixed a bug in
-  the tls certificate checking code that prevented certificates with
-  long chains to be used in golang.
-- **[InfluxDB](https://github.com/influxdb/influxdb)**. A
-    lightweight distributed time series, events, and metrics database.
-- **[Nokogiri](https://github.com/sparklemotion/nokogiri)**. Core
-  maintainer of Nokogiri.
-- **[JRuby](https://github.com/jruby/jruby)**. Found and fixed
-  multiple bugs related to String encoding in JRuby 1.7 when running
-  in 1.9 mode and timezone handling.
-- **[Ruby](https://github.com/ruby/ruby)**. Submitted a new test to
-  enhance coverage of String encoding as a result of a bug found in
-  JRuby.
-- **[Minix](http://www.minix3.org/)**. As a college project I ported
-  the Linux O(1) scheduler which was designed and implemented by Ingo
-  Molnár to the Minix Operating System, though this work wasn't
-  published or contributed back to the Minix code base.
-
-### Undergraduate experience
-
-#### Database applications testing research
-
-AGENDA is a software testing research project that focused on testing and verifying
-database applications and their interactions with the database.
-
-- **SWING**. Reimplemented AGENDA as a SWING application as opposed to
-  a web app to provide a better user experience while reusing most of
-  the components used by the web based implementation.
-- **Input data generation**. Improved the implementation of the fake
-  data generation phase by using an in memory db to filter the data
-  sets that violated any of the schema constraints.
-- **Papers**. Shahid, Chays, Frankl. Query-based Test Generation for
-  Database Applications.  Proceedings of the 1st intentional workshop
-  on testing database systems, June 2008.
+- **[Telegraf-Solaris](https://github.com/vikramjakhr/telegraf-solaris)**. 
+    Core  maintainer of Telegraf-solaris. 
+    Open source alternative to telegraf(InfluxData) for solaris platform. 
+- **[grafana-dashboard-exporter](https://github.com/vikramjakhr/grafana-dashboard-exporter)**. 
+    A lightweight exporter for exporting grafana dashboard to file storage 
+    and S3(AWS). Works similar to telegraf(InfluxData) agent
+- **[vsphere-vcenter-influx-go](https://github.com/vikramjakhr/vsphere-vcenter-influx-go)**. 
+    This is a tool written in Go that helps you do your own custom tailored monitoring, 
+    capacity planning and performance debugging of VMware based infrastructures. 
+    It collects all possible metrics from vCenters and ESXi hypervisors about hosts, 
+    clusters, resource pools, datastores and virtual machines and sends them to an InfluxDB database.
+    Check out the grafana dashboards using this.
+- **[Grafana-Dashboards](https://grafana.com/orgs/vikramjakhr)**. 
+    Created multiple dashboards in grafana for VCenter.
