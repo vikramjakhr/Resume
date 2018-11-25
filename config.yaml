@@ -3,16 +3,16 @@
 # Stuff about you.
 user_config:
   # Your Name. This will be used for the page title
-  name: 'John Shahid'
+  name: 'Vikram Jakhar'
 
   # The file you want to parse to be your resume
   # Must be a format supported by github-markup
   file: 'resume.md'
 
   # A picture of you. Should be a complete url
-  pic: 'http://www.gravatar.com/avatar/a59f694e35d290f6d21e3564b2a5c4d1'
+  pic: 'https://avatars1.githubusercontent.com/u/10959156?s=460&v=4'
 
 # For github pages to work, this needs to be the GitHub repository this file is
 # stored in.
 github:
-  remote: 'git@github.com:jvshahid/Resume.git'
+  remote: 'git@github.com:vikramjakhr/Resume.git'
