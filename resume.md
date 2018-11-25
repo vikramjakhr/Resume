@@ -1,15 +1,15 @@
 <!--- trailing spaces are important to force a line break, i.e. <br/> in the
       generated document -->
 
-# John V. Shahid
+# Vikram Jakhar
 
- * Email/GTalk: jvshahid at gmail dot com
- * Github: <http://github.com/jvshahid>
- * Twitter handle: [@jvshahid](http://twitter.com/jvshahid)
- * Phone number: 718-730-0780
- * Online resume: <http://jvshahid.github.com/Resume>
+ * Email: vikram.jakhr@gmail.com
+ * Github: <http://github.com/vikramjakhr>
+ * Twitter handle: [@vikramjakhr](http://twitter.com/vikramjakhr)
+ * Phone number: +91 8527054221
+ * Online resume: <http://vikramjakhr.github.com/Resume>
 
-![My image](http://www.gravatar.com/avatar/2736d9750eb13425e9bf70f112753c49?s=150)
+![My image](https://avatars1.githubusercontent.com/u/10959156?s=150&v=4)
 
 ## Objectives
 
