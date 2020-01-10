@@ -24,7 +24,7 @@ important objective.
 Master of Computer Applications (MCA)
 2012-2015
 
-## Skills
+## Skills 
 
 - **AWS**. Well-versed in setting up and maintaining AWS Cloud Stack.
 - **Azure**. Beginner in Azure but well enough to get up an running.
